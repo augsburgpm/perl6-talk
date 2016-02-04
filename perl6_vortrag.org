@@ -1,0 +1,39 @@
+
+* Inhaltsübersicht(plan) (vorschlag)
+** überblick und theorie (beispiele)
+** Tools:
+*** rakudo compiler (und rakudobrew)
+*** panda paketsystem
+*** emacs mode
+*** in den files muss oben "use v6" stehen
+** Typsystem
+** sigil invarianz
+** konkrete beispiele und Performance vergleiche (perl6, perl5, python3)
+*** hier auch: typ von etwas auslesen (das komische introspection makro)
+*** --optimize= verwneden
+*** zeigen wie es besser wird durch type annotations
+*** fun: java beispiel
+** Die geilheit von compact arrays
+** Übersicht modulsystem
+** perl5 module in perl6 usen (und performance)
+   - ist vermutl nicht inperformant
+** reguläre ausdrücke
+** kurz: Objektorientierung?
+*** (implizite getter und setter)
+*** Es gibt exceptions (sie sind okay)
+** Was weggelasen wurde
+
+*** auch: anschauen, läuft wirklich ein 2. prozess
+*** etvl. gutes beispiel: xml parsing foo library
+*** C Code in perl6 (nativecall)
+*** Macros (lisp style)
+*** spezifikation
+*** junctions und autoparallelisierung
+*** async support
+*** gather
+** Schlussgedanken:
+*** Zur Größe/Komplexizität
+*** Wird perl6 groß? (so groß wie perl5)
+    - perl6 will in eine domäne die schon voll ist
+    - stostrup zitat
+    - wird eher was schönes für enthusiasten
